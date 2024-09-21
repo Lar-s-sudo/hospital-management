@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Habitacion
+comment1.params=
+comment1.target=Habitacion()
+comment2.params=paciente
+comment2.target=Habitacion(Paciente)
+comment3.params=
+comment3.target=int\ getNumero()
+comment4.params=
+comment4.target=boolean\ isOcupada()
+comment5.params=ocupada
+comment5.target=void\ setOcupada(boolean)
+comment6.params=
+comment6.target=Paciente\ getPaciente()
+comment7.params=
+comment7.target=void\ vaciarHabitacion()
+comment8.params=paciente
+comment8.target=void\ setPaciente(Paciente)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

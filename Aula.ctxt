@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Aula
+comment1.params=formador
+comment1.target=Aula(Empleado)
+comment2.params=
+comment2.target=int\ getNumero()
+comment3.params=
+comment3.target=Empleado\ getFormador()
+comment4.params=
+comment4.target=java.util.List\ getEstudiantes()
+comment5.params=est
+comment5.target=void\ agregarEstudiante(Estudiante)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

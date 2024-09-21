@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Paciente
+comment1.params=id\ dni\ nombre\ seguridadSocial
+comment1.target=Paciente(int,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=Expediente\ getExpediente()
+comment3.params=expediente
+comment3.target=void\ setExpediente(Expediente)
+comment4.params=
+comment4.target=boolean\ getSeguridadSocial()
+comment5.params=seguridadSocial
+comment5.target=void\ setInformacionSeguro(boolean)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=pac
+comment7.target=boolean\ equals(Paciente)
+numComments=8
